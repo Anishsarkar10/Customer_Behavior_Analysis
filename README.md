@@ -61,14 +61,23 @@ Loaded the final cleaned DataFrame into a PostgreSQL table to run SQL queries ef
 A set of business-focused SQL queries was executed on the cleaned PostgreSQL dataset to uncover customer behavior, spending patterns, and product performance. Key analysis includes:
 
 Revenue by Gender: Calculated total revenue generated from male and female customers to identify spending differences across demographics.
+
 High-Spend Discount Users: Identified customers who used discounts but still spent above the average purchase amount.
+
 Top-Rated Products: Retrieved the top five products with the highest average review ratings.
+
 Shipping Impact on Spending: Compared average purchase amounts between Standard and Express shipping types.
+
 Subscription Value Analysis: Measured whether subscribed customers spend more by comparing average spend, customer count, and revenue.
+
 Discount Effectiveness: Ranked products with the highest percentage of discounted purchases to understand promotion impact.
+
 Customer Segmentation: Categorized customers into New, Returning, and Loyal based on historical purchases and counted segment sizes.
+
 Top Products by Category: Identified the top three most purchased items within each category.
+
 Subscription Likelihood of Repeat Buyers: Checked whether frequent buyers (5+ previous purchases) are more likely to be subscribers.
+
 Age-Group Revenue Contribution: Calculated revenue contribution across age-group segments to reveal top-performing customer cohorts.
 
 These SQL-driven insights enabled deeper understanding of customer patterns, purchase behavior, and product dynamics—supporting data-backed business decision-making.
@@ -80,8 +89,11 @@ An interactive Customer Behavior Dashboard was built to visualize key insights d
 *Key components featured in the dashboard*
 
 KPIs: Total customers, average purchase amount, and average review rating.
+
 Customer Segmentation: Subscription-based distribution and age-group performance.
+
 Revenue Insights: Revenue by category and by age group.
+
 Sales Insights: Sales volume analyzed across product categories and customer segments.
 
 This dashboard provides a comprehensive, business-focused view of customer behavior and helps identify high-value segments, top-performing categories, and purchase patterns for data-driven decision-making.
