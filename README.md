@@ -109,3 +109,9 @@ However, subscribers still contribute a significant portion of total revenue (�
 Non-subscribers drive the majority of revenue (≈73%) simply because they make up a much larger share of total customers.
 5. Higher-frequency buyers spend marginally more, while periodic shoppers contribute the bulk of customer volume.
 
+📊 Dashboard Preview
+
+The image below shows a snapshot of the Customer Behavior Analytics Dashboard built in Power BI, highlighting key KPIs, customer segmentation, and revenue insights to support data-driven analysis:
+
+(https://github.com/Anishsarkar10/Customer_Behavior_Analysis/blob/main/Snapshot%20of%20the%20Dashboard.png)
+
