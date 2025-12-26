@@ -111,7 +111,6 @@ Non-subscribers drive the majority of revenue (≈73%) simply because they make 
 
 📊 Dashboard Preview
 
-The image below shows a snapshot of the Customer Behavior Analytics Dashboard built in Power BI, highlighting key KPIs, customer segmentation, and revenue insights to support data-driven analysis:
-
+The image below shows a snapshot of the Customer Behavior Analytics Dashboard built in Power BI, highlighting key KPIs, customer segmentation, and revenue insights to support data-driven analysis. - ![Alt_text](https://github.com/Anishsarkar10/Customer_Behavior_Analysis/blob/main/Snapshot%20of%20the%20Dashboard.png)
 Example : ![Dashboard Preview].(https://github.com/Anishsarkar10/Customer_Behavior_Analysis/blob/main/Snapshot%20of%20the%20Dashboard.png)
 
